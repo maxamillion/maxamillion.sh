@@ -11,7 +11,7 @@ if [[ -z "${1}" ]]; then
 fi
 
 # Build output
-nikola3 build
+nikola build
 
 rsync -avz -e "ssh" --progress \
     "$(dirname "${0}")"/output/* \
