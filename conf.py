@@ -128,31 +128,37 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-#NAVIGATION_LINKS = {
-#    DEFAULT_LANG: (
-#        ("/blog/", "Blog"),
-#        ("/archive.html", "Archive"),
-#        ("/categories/", "Tags"),
-#        ("/rss.xml", "RSS feed"),
-#    ),
-#}
-#
-## Name of the theme to use.
-#THEME = "bootstrap3"
-
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/index.html', 'Home', 'icon-home'),
-        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-        ('/categories/index.html', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
-        ('https://fedoraproject.org/wiki/User:Maxamillion', 'About me', 'icon-user'),
-        ('https://twitter.com/TheMaxamillion', 'My Twitter', 'icon-twitter'),
-        ('https://github.com/maxamillion', 'My Github', 'icon-github'),
-    )
+        ("/blog/", "Blog"),
+        ("https://github.com/maxamillion", "GitHub"),
+        ("https://pagure.io/user/maxamillion", "Pagure.io"),
+        ("https://twitter.com/TheMaxamillion", "Twitter"),
+        ("https://fedoraproject.org/wiki/User:Maxamillion", "My Fedora Page"),
+        ("/archive.html", "Archive"),
+        ("/categories/", "Tags"),
+        ("/rss.xml", "RSS feed"),
+        ("https://maxamillion.sh/resume", "Resume"),
+    ),
 }
 
-THEME = "zen"
+# Name of the theme to use.
+#THEME = "bootstrap3"
+THEME = "yesplease"
+
+#NAVIGATION_LINKS = {
+#    DEFAULT_LANG: (
+#        ('/index.html', 'Home', 'icon-home'),
+#        ('/blog/', 'Blog', 'icon-blog'),
+#        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+#        ('/categories/index.html', 'Tags', 'icon-tags'),
+#        ('/rss.xml', 'RSS', 'icon-rss'),
+#        ('https://fedoraproject.org/wiki/User:Maxamillion', 'About me', 'icon-user'),
+#        ('https://twitter.com/TheMaxamillion', 'My Twitter', 'icon-twitter'),
+#        ('https://github.com/maxamillion', 'My Github', 'icon-github'),
+#    )
+#}
+#THEME = "zen"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.

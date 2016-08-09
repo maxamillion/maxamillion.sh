@@ -14,3 +14,6 @@ using for some time, I much prefer being able to edit my blog posts in my local
 text editor of choice and serve my site as static html from my own system. This
 has taken far longer than I had hoped it would but I definitely hope it will
 prompt me to blog more.
+
+If you care to view my old blog, it can still be found `here
+<http://pseudogen.blogspot.com/>`_.
