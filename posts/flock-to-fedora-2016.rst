@@ -1,6 +1,6 @@
 .. title: Flock to Fedora 2016
 .. slug: flock-to-fedora-2016
-.. date: 2016-08-09 15:10:44 UTC-05:00
+.. date: 2016-08-10 11:48:20 UTC-05:00
 .. tags: Fedora Flock 2016
 .. category: blog
 .. link:
@@ -619,8 +619,11 @@ Until next time...
 .. _Amazon Web Services: https://aws.amazon.com/
 .. _tunir: http://tunir.readthedocs.io/en/latest/
 .. _Docker Swarm: https://github.com/docker/swarm/
+.. _taskotron: https://taskotron.fedoraproject.org/
+.. _RoleKit: https://github.com/libre-server/rolekit
 .. _GNOME Outreachy: https://www.gnome.org/outreachy/
 .. _Loopabull: https://github.com/maxamillion/loopabull
+.. _systemd: https://freedesktop.org/wiki/Software/systemd/
 .. _Fedora CommOps: https://fedoraproject.org/wiki/CommOps
 .. _Fedora Council: https://fedoraproject.org/wiki/Council
 .. _MirrorManager: https://fedorahosted.org/mirrormanager/
@@ -640,6 +643,7 @@ Until next time...
 .. _atomic-reactor:  https://github.com/projectatomic/atomic-reactor
 .. _Eternal September: https://en.wikipedia.org/wiki/Eternal_September
 .. _Fedora Infrastructure: https://fedoraproject.org/wiki/Infrastructure
+.. _Release Engineering: https://en.wikipedia.org/wiki/Release_engineering
 .. _module definition: https://pagure.io/modulemd/blob/master/f/spec.yaml
 .. _Lighning Talks: https://fedoraproject.org/wiki/Flock/Lightning_Talks_2016
 .. _Fedora Engineering Team: https://fedoraproject.org/wiki/Fedora_Engineering
