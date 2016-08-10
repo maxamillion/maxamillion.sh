@@ -24,6 +24,7 @@ looking for.
 .. image:: /images/profile_square.jpg
     :height: 800
     :width: 800
+    :scale: 50
     :alt: Profile Photo (square)
     :align: center
 
