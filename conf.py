@@ -134,6 +134,7 @@ NAVIGATION_LINKS = {
         ("https://github.com/maxamillion", "GitHub"),
         ("https://pagure.io/user/maxamillion", "Pagure.io"),
         ("https://twitter.com/TheMaxamillion", "Twitter"),
+        ("https://keybase.io/maxamillion", "keybase.io"),
         ("https://fedoraproject.org/wiki/User:Maxamillion", "My Fedora Page"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
