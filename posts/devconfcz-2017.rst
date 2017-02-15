@@ -20,8 +20,8 @@ as catch up with other community contributors in "The Hallway Track" because
 I have in the past been bad at balancing between the official speaker track and
 The Hallway Track. I like to think I did well. :)
 
-Some of the big themes of the event were Continuous Integration, `Container
-Technologies`_, `Project Atomic`_ family of technologies, `Ansible`_, and
+Some of the big themes of the event were Continuous Integration, Container
+Technologies, `Project Atomic`_ family of technologies, `Ansible`_, and
 Cross-Community and Cross-Distro collaboration (making more of an effort to not
 re-invent the wheel). Also as a point of reference, sub topics of these include
 `Fedora Modularity`_, `Atomic Host`_, and `Factory 2.0`_.
@@ -505,7 +505,7 @@ Until next time...
 .. _OpenShift: https://www.openshift.org/
 .. _Atomic WG: https://pagure.io/atomic-wg
 .. _Bodhi: https://bodhi.fedoraproject.org/
-.. _Elastic Search: https://www.elastic.co/
+.. _ElasticSearch: https://www.elastic.co/
 .. _Cassandra: https://cassandra.apache.org/
 .. _The Foreman: https://www.theforeman.org/
 .. _fedmsg: http://www.fedmsg.com/en/latest/
@@ -528,6 +528,7 @@ Until next time...
 .. _SELinux: https://selinuxproject.org/page/Main_Page
 .. _OSBS: https://github.com/projectatomic/osbs-client
 .. _loopabull: https://github.com/maxamillion/loopabull
+.. _AutoCloud: https://apps.fedoraproject.org/autocloud/
 .. _Linch-Pin: https://github.com/CentOS-PaaS-SIG/linch-pin
 .. _rpm-ostree: https://github.com/projectatomic/rpm-ostree
 .. _systemd: https://freedesktop.org/wiki/Software/systemd/
@@ -536,6 +537,7 @@ Until next time...
 .. _Commissaire: https://github.com/projectatomic/commissaire
 .. _playbook: https://docs.ansible.com/ansible/playbooks.html
 .. _Branched: https://fedoraproject.org/wiki/Releases/Branched
+.. _ansible-container: https://www.ansible.com/ansible-container
 .. _Fedora Modularity: https://fedoraproject.org/wiki/Modularity
 .. _Dockerfile: https://docs.docker.com/engine/reference/builder/
 .. _Software Collections: https://www.softwarecollections.org/en/
@@ -550,6 +552,8 @@ Until next time...
 .. _Fedora Containers: https://fedoraproject.org/wiki/Container:Review_Process
 .. _FESCo: https://fedoraproject.org/wiki/Fedora_Engineering_Steering_Committee
 .. _Atomic Host Two Week: https://fedoraproject.org/wiki/Changes/Two_Week_Atomic
+.. _Factory 2.0:
+    https://communityblog.fedoraproject.org/factory-2-0-mean-modularity/
 .. _Speaker Recordings here:
     https://www.youtube.com/channel/UCmYAQDZIQGm_kPvemBc_qwg
 .. _system container:
