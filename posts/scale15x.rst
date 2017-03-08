@@ -76,7 +76,7 @@ various features of each Fedora Edition: `Workstation`_, `Server`_, `Atomic`_
 which highlights features beyond just the core distribution that are tailor made
 to specific users and potential users. We just need to continue to show up to
 user groups, MeetUps, and conferences with good representation to help spread
-the word. On that note, a massive thanks to the amazing `Fedora Ambassador`_.
+the word. On that note, a massive thanks to the amazing `Fedora Ambassadors`_.
 I'd also like to find a good way to get the message out to more users of various
 online and programming communities, something similar to `Fedora Loves Python`_
 but for various `Special Interest Groups`_ within Fedora. Just food for thought.
@@ -211,7 +211,8 @@ Until next time...
 .. _SCaLE: https://www.socallinuxexpo.org
 .. _Server: https://getfedora.org/en/server/
 .. _Atomic: https://getfedora.org/en/atomic/
-.. _Linux Academy: https://linuxacademy.com/
+.. _LinuxAcademy: https://linuxacademy.com/
+.. _opensource.com: https://opensource.com/
 .. _Docker: https://github.com/docker/docker/
 .. _Josh Berkus: https://twitter.com/fuzzychef
 .. _Steve Pousty: https://twitter.com/TheSteve0
@@ -223,6 +224,7 @@ Until next time...
 .. _Workstation: https://getfedora.org/en/workstation/
 .. _Fedora Loves Python: https://fedoralovespython.org/
 .. _Fedora Community: http://fedoracommunity.org/northam
+.. _Fedora Ambassadors: https://fedoraproject.org/wiki/Ambassadors
 .. _Red Hat Technology Portfolio: https://www.redhat.com/en/technologies
 .. _Special Interest Groups: https://fedoraproject.org/wiki/Category:SIGs
 .. _Part 1: https://www.projectatomic.io/blog/2016/06/micro-cluster-part-1/
