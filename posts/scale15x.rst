@@ -41,7 +41,7 @@ there. However, from a personal note, something I found rather interesting was
 the number of people who came by the `Red Hat`_ booth that had never heard of
 the company. This isn't entirely a new phenomenon depending on the "crowd
 profile" but it's definitely the first time I've seen such a proliferation of it
-at a specifically *Linux* conference. This is a weird change of pace for me as
+at a specifically **Linux** conference. This is a weird change of pace for me as
 for the longest time, Red Hat was a name synonymous with Linux. However, as the
 company has focused more on the Enterprise with `RHEL`_, the community focused
 `Fedora`_ and `CentOS`_ have filled in the void for the community user base and
@@ -197,6 +197,7 @@ and I really hope I get the opportunity to go back next year.
 
 Until next time...
 
+
 .. _CentOS: https://centos.org/
 .. _GNOME: https://www.gnome.org/
 .. _JFrog: https://www.jfrog.com/
@@ -207,6 +208,7 @@ Until next time...
 .. _Kubernetes: https://kubernetes.io/
 .. _OpenSUSE: https://www.opensuse.org/
 .. _OpenShift: https://www.openshift.com/
+.. _SCaLE: https://www.socallinuxexpo.org
 .. _Server: https://getfedora.org/en/server/
 .. _Atomic: https://getfedora.org/en/atomic/
 .. _Linux Academy: https://linuxacademy.com/
