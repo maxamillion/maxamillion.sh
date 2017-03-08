@@ -1,6 +1,6 @@
 .. title: SCaLE 15x
 .. slug: scale-15x
-.. date: 2017-03-08 22:23:08 UTC-05:00
+.. date: 2017-03-08 16:25:15 UTC-05:00
 .. tags: SCaLE 15x
 .. category: blog
 .. link:
