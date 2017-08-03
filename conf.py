@@ -144,8 +144,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-#THEME = "bootstrap3"
-THEME = "yesplease"
+THEME = "bootstrap3"
 
 #NAVIGATION_LINKS = {
 #    DEFAULT_LANG: (
