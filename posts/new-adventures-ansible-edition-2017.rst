@@ -1,7 +1,7 @@
 .. title: New Adventures: Ansible Edition
 .. slug: New Adventures Ansible Edition
 .. date: 2017-10-09 15:24:20 UTC-05:00
-.. tags: New Adventures Ansible Fedora
+.. tags: New Adventures, Ansible,Fedora
 .. category: blog
 .. link:
 .. description: New Adventures Ansible Edition
