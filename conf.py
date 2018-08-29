@@ -136,7 +136,7 @@ NAVIGATION_LINKS = {
         ("https://twitter.com/TheMaxamillion", "Twitter"),
         ("https://keybase.io/maxamillion", "keybase.io"),
         ("https://speakerhub.com/speaker/adam-miller", "Speaker Hub"),
-        ("https://fedoraproject.org/wiki/User:Maxamillion", "Fedora Contrib Page"),
+        ("https://fedoraproject.org/wiki/User:Maxamillion", "Fedora Page"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
