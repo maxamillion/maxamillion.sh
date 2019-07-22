@@ -33,7 +33,7 @@ About Me
 ========
 
 I am a loving husband and father, an open source fanatic, a member of the
-`Ansible <https://ansible.com>`_ Core Development Team, a `Fedora
+`Ansible <https://ansible.com>`_ Engineering Team, a `Fedora
 <https://getfedora.org/>`_ contributor, `Red Hatter <https://www.redhat.com/>`_,
 and over all lover of technology.
 
